@@ -2,7 +2,7 @@
 
 TCP-SYN-Attack.py: responsible for establishing a TCP SYN flood attack. 
 
-TCP-SYN-Detector: responsible for detecting the established TCP SYN flood attacks.
+TCP-SYN-Detector: responsible for detecting the established TCP SYN flood attack.
 
 ## To run the attack and detector tool:
 
