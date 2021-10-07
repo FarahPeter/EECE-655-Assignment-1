@@ -8,7 +8,7 @@ TCP-SYN-Detector: responsible for detecting the established TCP SYN flood attack
 
 1. Run TCP-SYN-Detector.py file
  
- Enter the inputs for the attack as shown in the example figure below:
+ Enter the inputs for the detector as shown in the example figure below:
  ![Running detector](https://user-images.githubusercontent.com/47125583/136378735-8656069c-19cc-4371-a04d-fb1225ba730d.JPG)
 
 2. Run TCP-SYN-Attack.py file 
